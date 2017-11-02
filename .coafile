@@ -1,0 +1,5 @@
+[cli]
+bears = SpaceConsistencyBear
+files = 1layer neural netwok with different datsets.ipynb,Baiscs of logistic regression and one layer neural network .ipynb,CatvsNon_Cat classifier.ipynb,Python+Basics+With+Numpy+v3.ipynb
+use_spaces = True
+default_actions = *: ApplyPatchAction
