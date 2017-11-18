@@ -1,5 +1,3 @@
-architect:
-- yegor256
 docker:
   as_root: true
   image: "docker pull yegor256/rultor"
