@@ -1,11 +1,10 @@
 [cli]
 bears = SpaceConsistencyBear,PEP8Bear
-files = 1layer neural netwok with different datsets.ipynb,Baiscs of logistic regression and one layer neural network .ipynb,CatvsNon_Cat classifier.ipynb,Python+Basics+With+Numpy+v3.ipynb
-use_spaces = True
 default_actions = *: ApplyPatchAction
+files = Creating_Our_KNearest_Neighbors_Algorithm_from _Scratch.py,CustomKMeans.py,Regression_Intro.py
+use_spaces = True
 
-[JSON]
-bears = JSONFormatBear
-files = 1layer neural netwok with different datsets.ipynb,Baiscs of logistic regression and one layer neural network .ipynb,CatvsNon_Cat classifier.ipynb,Python+Basics+With+Numpy+v3.ipynb
-use_spaces = True
+[JupyterNoteBook]
+bears = PEP8NotebookBear
 default_actions = *: ApplyPatchAction
+files = 1layer neural netwok with different datsets.ipynb,Baiscs of logistic regression and one layer neural network .ipynb,CatvsNon_Cat classifier.ipynb,Python+Basics+With+Numpy+v3.ipynb
