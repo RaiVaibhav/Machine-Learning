@@ -1,4 +1,10 @@
 [cli]
+bears = SpaceConsistencyBear,PEP8Bear
+default_actions = *: ApplyPatchAction
+files = Creating_Our_KNearest_Neighbors_Algorithm_from _Scratch.py,CustomKMeans.py,Regression_Intro.py
+use_spaces = True
+
+[python]
 bears = PEP8NotebookBear
 files = 1layer neural netwok with different datsets.ipynb,Baiscs of logistic regression and one layer neural network .ipynb,CatvsNon_Cat classifier.ipynb,Python+Basics+With+Numpy+v3.ipynb
 flush_cache, use_spaces = True
